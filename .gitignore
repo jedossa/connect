@@ -1,6 +1,7 @@
 *.class
 *.log
 project/target
+.bsp
 .bloop
 .metals
 .cache
